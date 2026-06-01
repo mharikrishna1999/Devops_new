@@ -1,1 +1,3 @@
 Linux 
+iam working Linux administrator
+Learning devops
